@@ -8,5 +8,6 @@ Assorted Notes and Notecards from UCLA Coursework
 - CS 143        : Database Systems
 - CS 161        : Fundamentals of Artificial Intelligence
 - CS 174A       : Introduction to Computer Graphics
+- CS 180	: Introduction to Algorithms and Complexity
 - ENGR 188EW    : Experimental Courses in Engineering Ethics
 - PSYCTRY 79    : Applied Positive Neuroscience
